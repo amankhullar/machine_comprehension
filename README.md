@@ -8,7 +8,7 @@ With the improvements in the state of the art models for Natural Language Proces
 
 ## Model
 
-![Model Architecture](~/Desktop/model.png?raw=true)
+![Model Architecture](model.png?raw=true)
 
 ## Execution
 
