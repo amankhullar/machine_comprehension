@@ -10,6 +10,10 @@ With the improvements in the state of the art models for Natural Language Proces
 
 ![Model Architecture](model.png?raw=true)
 
+### BiDirectional Attention Flow
+
+The BiDAF is a high performing SQuAD model The core part of the model dictates that the attention flows in both the directions. Hence the context attends to the questions as well as the questions attend to the context.
+
 ## Execution
 
 To exectute the model : 
@@ -44,7 +48,7 @@ Now open http://localhost:4242/ in your browser.
 ```sh
 $ python main.py --experiment_name=bidaf --mode=show_examples
 ```
-# Acknowledgment
+## Acknowledgment
 
 I would like to thank NLP Group at Stanford University for encouraging open learning and posting the course assignments and final project material of the course CS224n.
 
