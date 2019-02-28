@@ -53,3 +53,7 @@ $ python main.py --experiment_name=bidaf --mode=show_examples
 I would like to thank NLP Group at Stanford University for encouraging open learning and posting the course assignments and final project material of the course CS224n.
 
 The lectures by Dr. Christopher Manning and Dr. Richard Socher helped me gain an insight into the field of Natural Language Processing which helped me complete this challenging project.
+
+## References
+
+This work is inspired from the work by the work of Minjoon Seo et al. The link for their work is ![BiDAF](https://allenai.github.io/bi-att-flow/)
