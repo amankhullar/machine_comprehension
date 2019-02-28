@@ -56,4 +56,4 @@ The lectures by Dr. Christopher Manning and Dr. Richard Socher helped me gain an
 
 ## References
 
-This work is inspired from the work by the work of Minjoon Seo et al. The link for their work is ![BiDAF](https://allenai.github.io/bi-att-flow/)
+This work is inspired from the work of Minjoon Seo et al. The link for their work is ![BiDAF](https://allenai.github.io/bi-att-flow/)
